@@ -2,6 +2,6 @@
 My first repo!
 
 vgkhfunksdmvdosf:
-*v nkdbsjfdvksn
-*dkbn kdfl v
-*vkfsdnvisfdkm
+* v nkdbsjfdvksn
+* dkbn kdfl v
+* vkfsdnvisfdkm
